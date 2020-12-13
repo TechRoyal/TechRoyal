@@ -5,4 +5,5 @@
 Fluent in: HTML, CSS and PHP. <br />
 Developing skills in: VueJS, JavaScript, NodeJS, and many more.
 
-![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=TechRoyal&show_icons=true&hide_border=true)
+![My Website](https://tobyroyal.codes/)
+![Pontifex Technologies](https://pontifex.tech/)
