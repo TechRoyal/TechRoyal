@@ -2,8 +2,6 @@
 
 ### Student, Developer and Managing Director of Pontifex Technologies.
 
-> (ps, i've got a lot of stuff private)
-
 Fluent in: HTML, CSS and PHP. <br />
 Developing skills in: VueJS, JavaScript, NodeJS, and many more.
 
