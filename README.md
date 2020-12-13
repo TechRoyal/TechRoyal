@@ -2,7 +2,9 @@
 
 ### Student, Developer and Managing Director of Pontifex Technologies.
 
-Fluent in: HTML, CSS and PHP.
-Developing in: VueJS, JavaScript, NodeJS, and much more.
+> (ps, i've got a lot of stuff private)
+
+Fluent in: HTML, CSS and PHP. <br />
+Developing skills in: VueJS, JavaScript, NodeJS, and many more.
 
 ![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=TechRoyal&show_icons=true&hide_border=true)
