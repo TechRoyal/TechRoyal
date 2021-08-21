@@ -9,5 +9,5 @@ Developing skills in: Java (Minecraft Orentiated), JavaScript (mainly focusing o
 
 Other noteable skills are in: The Google G-Suite (excl. Sheets & Admin), Microsoft Office 365 (incl. Admin, excl. Excel), Proxmox VE, Cisco Switching CLI, Cisco Meraki, VMWare ESXi & vSphere / vCenter.
 
-[My Website](https://tobyroyal.codes/)
+**[My Website](https://tobyroyal.codes/)**<br />
 I am open to work, please feel free to reach out on my website.
