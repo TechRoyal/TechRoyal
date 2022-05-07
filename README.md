@@ -1,17 +1,14 @@
-# Toby Royal
-Graduating Class of '22.
+# Hi, I'm Toby Royal.
 
 ## Student, Freelance Developer & IT Consultant.
-I create websites and software using a wide variety of methods and languages. I often use programming to my advantage creating solutions to problems I see, such as creating a scheduling app to assist me with my academic life.
+Programming is a one-of-a-kind, unique way to express yourself, find solutions to problems or create something truly amazing. I use my skills in programming to create solutions for clients and myself and to try and make a difference where it is possible to do so... and this is my GitHub where all that magic happens.
 
 ### Skills:
 Fluent in: JS (Web & Node), PHP, HTML, CSS, Batch & Bash Scripting, PowerShell. <br />
 Developing skills in: Java (Minecraft Orentiated), C#, LUA and others.
 
-Other noteable skills are in: The Google G-Suite (excl. Sheets & Admin), Microsoft Office 365 (incl. Admin, excl. Excel), Proxmox VE, Cisco Switching CLI, Cisco Meraki, VMWare ESXi & vSphere / vCenter.
-
 **[Visit my website - tobyroyal.codes](https://tobyroyal.codes/)**<br />
-If you're interested in starting a project with me, let's get in touch through my website.
+If you're interested in starting a project with me.. or you want to know what else I do, find out through my website.
 
 ### Education:
 SoloLearn PHP & HTML Certificates (see website).<br />
