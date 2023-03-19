@@ -11,7 +11,8 @@ Developing skills in: Java (Focusing on Minecraft mostly), C#, LUA and others.
 If you're interested in starting a project with me.. or you want to know what else I do, find out through my website.
 
 ### Education:
-SoloLearn PHP & HTML Certificates (see website).<br />
-IB Diploma Programme.<br />
-Google - Technical Support Fundamentals<br />
-Google for Education - Training Recieved<br />
+SoloLearn PHP & HTML Certificate<br />
+IB Diploma Programme<br />
+US/CH Highschool Diploma<br />
+Google - Technical Support Fundamentals Certified<br />
+Google Certified Educator (L1 & L2)<br />
